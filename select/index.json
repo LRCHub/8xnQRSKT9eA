@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Everybody Go",
+  "base_artist": "Kis-My-Ft2",
+  "createdAt": "2026-01-11T07:49:34.463701Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Where’d Everybody Go?",
+      "artist": "Chris Shiflett",
+      "has_synced": true,
+      "path": "select/01_Where’d_Everybody_Go_Chris_Shiflett.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Should Everybody Go to the Disco",
+      "artist": "Parks, Squares and Alleys",
+      "has_synced": false,
+      "path": "select/02_Should_Everybody_Go_to_the_Disco_Parks,_Squares_and_Alleys.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Where Did Everybody Go",
+      "artist": "Portland",
+      "has_synced": true,
+      "path": "select/03_Where_Did_Everybody_Go_Portland.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everybody Go Home, The Party's Over",
+      "artist": "Clodagh Rodgers",
+      "has_synced": false,
+      "path": "select/04_Everybody_Go_Home,_The_Party's_Over_Clodagh_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nikka Costa / Everybody Go Their Something",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_Nikka_Costa___Everybody_Go_Their_Something_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everybody Go Collect (feat. Tega Boi Dc)",
+      "artist": "Kenzylizoo",
+      "has_synced": true,
+      "path": "select/06_Everybody_Go_Collect_(feat._Tega_Boi_Dc)_Kenzylizoo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where Did Everybody Go",
+      "artist": "Vistavision",
+      "has_synced": true,
+      "path": "select/07_Where_Did_Everybody_Go_Vistavision.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everybody Go Home the Party's Over",
+      "artist": "Rodgers, Clodagh",
+      "has_synced": false,
+      "path": "select/08_Everybody_Go_Home_the_Party's_Over_Rodgers,_Clodagh.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everybody Go Home Party's Over",
+      "artist": "Clodagh Rodgers",
+      "has_synced": false,
+      "path": "select/09_Everybody_Go_Home_Party's_Over_Clodagh_Rodgers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everybody Go",
+      "artist": "Kis-My-Ft2",
+      "has_synced": false,
+      "path": "select/pl_01_Everybody_Go_Kis-My-Ft2.txt"
+    }
+  ]
+}
